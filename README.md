@@ -1,3 +1,3 @@
 ### Hello 👋
 
-- I'm currently rearning coding.
+- I'm currently learning coding.
