@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zumodenaranja71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zumodenaranja71" height="30" width="40" /></a>
+<a href="https://twitter.com/MrZumo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MrZumo_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
