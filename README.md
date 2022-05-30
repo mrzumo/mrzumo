@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Zumo 😊</h1>
-<h3 align="center">Currently learning Python, as a first language.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zumodenaranja&label=Kind%20visitors:&color=0e75b6&style=flat" alt="zumodenaranja" /> </p>
 
