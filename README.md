@@ -8,7 +8,7 @@
 
 - 📫 Contact **zumodenaranja739@gmail.com**
 
-- ⚡ Fact: **I'm male**
+- ⚡ Fact: **I'm a guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
