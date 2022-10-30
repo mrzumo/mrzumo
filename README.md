@@ -2,11 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zumodenaranja&label=Kind%20visitors:&color=0e75b6&style=flat" alt="zumodenaranja" /> </p>
 
-- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Anything!**
 
-- 📫 Contact **zumodenaranja739@gmail.com**
 
 - ⚡ Fact: **I'm a guy**
 
